@@ -24,7 +24,9 @@ blog_button:
 
 nav:
     - {title: Research,         in_site: false,  description: research,  url: 'https://kerwinliao.github.io/kxliao.github.io/research'}
-    
+    - {title: Teaching,         in_site: true,  description: teaching,  url: 'https://kerwinliao.github.io/kxliao.github.io/teaching'}
+    - {title: Curriculum Vitae, in_site: true,  description: cv,        url: 'https://kerwinliao.github.io/kxliao.github.io/kerwinliao_cv.pdf'}
+    - {title: Backgrounds,      in_site: true,  description: backgrounds,        url: 'https://kerwinliao.github.io/kxliao.github.io/background'}
 
 
 gems:
