@@ -5,7 +5,7 @@ welcome_message: 欢迎来到我的魔法世界!
 description: 嗨，我是 GcsSloop，一名来自2.5次元的魔法师，Android自定义View系列文章作者，非著名程序员。
 creator: <a href="http://www.GcsSloop.com">@kliao</a>
 
-url: "http://kerwinliao.github.io"
+url: "http://kerwinliao.github.io/kxliao.github.io"
 
 permalink: /:categories/:title
 
@@ -18,15 +18,13 @@ redcarpet:
 # supported colors: blue, green, purple, red, orange or slate. If you need clear, leave it empty.
 cover_color: slate
 
-blog_button:
-    title: About Me
-    description: About me
 
 nav:
-    - {title: Research,         in_site: true,  description: research,  url: 'https://github.com/GcsSloop'}
-    - {title: Teaching,         in_site: true,  description: teaching,  url: 'https://kerwinliao.github.io/kxliao.github.io/timeline'}
-    - {title: Curriculum Vitae, in_site: true,  description: cv,        url: '/info/about'}
-    - {title: Backgrounds,      in_site: true,  description: backgrounds,        url: '/info/about'}
+    - {title: About Me,         in_site: true,  description: aboutme,   url: 'https://kerwinliao.github.io/kxliao.github.io/aboutme'}
+    - {title: Research,         in_site: true,  description: research,  url: 'https://kerwinliao.github.io/kxliao.github.io/research'}
+    - {title: Teaching,         in_site: true,  description: teaching,  url: 'https://kerwinliao.github.io/kxliao.github.io/teaching'}
+    - {title: Curriculum Vitae, in_site: true,  description: cv,        url: 'https://kerwinliao.github.io/kxliao.github.io/kerwinliao.pdf'}
+    - {title: Backgrounds,      in_site: true,  description: backgrounds,        url: 'https://kerwinliao.github.io/kxliao.github.io/background'}
     
 
 
