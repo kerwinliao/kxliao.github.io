@@ -18,12 +18,14 @@ redcarpet:
 # supported colors: blue, green, purple, red, orange or slate. If you need clear, leave it empty.
 cover_color: slate
 
+blog_button:
+    title: About Me
+    description: About me
 
 nav:
-    - {title: About Me,         in_site: true,  description: aboutme,   url: 'https://kerwinliao.github.io/kxliao.github.io/aboutme'}
     - {title: Research,         in_site: true,  description: research,  url: 'https://kerwinliao.github.io/kxliao.github.io/research'}
     - {title: Teaching,         in_site: true,  description: teaching,  url: 'https://kerwinliao.github.io/kxliao.github.io/teaching'}
-    - {title: Curriculum Vitae, in_site: true,  description: cv,        url: 'https://kerwinliao.github.io/kxliao.github.io/kerwinliao.pdf'}
+    - {title: Curriculum Vitae, in_site: true,  description: cv,        url: 'https://kerwinliao.github.io/kxliao.github.io/kerwinliao_cv.pdf'}
     - {title: Backgrounds,      in_site: true,  description: backgrounds,        url: 'https://kerwinliao.github.io/kxliao.github.io/background'}
     
 
